@@ -6,7 +6,7 @@ For example, if my username is rroig, than an example command would be `cd /home
 # Linux
 To put this on your linux machine:
   1. `cd /home/<username>/.config/`
-  2. `git clone https://github.com/rroig7/nvim`
+  2. `git clone https://github.com/rroig7/new-nvim`
   3. Done!
 
 # Windows
